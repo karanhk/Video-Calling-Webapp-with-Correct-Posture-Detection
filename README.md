@@ -3,4 +3,4 @@
 
 You can run the web application at : https://vc-decentralised-ml.vercel.app/
 
-Read Instructions.txt or see the demo video to get better understanding.
+Read Instructions.txt to get better understanding.
