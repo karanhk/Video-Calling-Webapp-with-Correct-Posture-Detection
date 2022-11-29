@@ -2,7 +2,7 @@ Open the given link.
 
 The web app will ask you for camera permission, allow it in order to run the app. The website may take few seconds to load machine learning model.
 
-Note that : YOUR DATA IS NOT SENT TO THE WEB. YOUR DATA STAYS TO YOUR MACHINE LOCALLY AND IF YOU REFRESH THE PAGE IT VANISHES.
+Note that : YOUR DATA IS NOT SENT TO THE WEB. YOUR DATA STAYS TO YOUR MACHINE LOCALLY, INTO YOUR BROWSER'S CASH MEMORY.
 
 You can see the call duration and correct posture duration at the top. Both will remain 0:00 if you have not made a call.
 
