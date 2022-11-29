@@ -1,0 +1,43 @@
+Open the given link.
+
+The web app will ask you for camera permission, allow it in order to run the app. The website may take few seconds to load machine learning model.
+
+Note that : YOUR DATA IS NOT SENT TO THE WEB. YOUR DATA STAYS TO YOUR MACHINE LOCALLY AND IF YOU REFRESH THE PAGE IT VANISHES.
+
+You can see the call duration and correct posture duration at the top. Both will remain 0:00 if you have not made a call.
+
+Below that you can see your video.
+
+Beside your video, you can see your last call's information. This information is saved at your browser's cash memory.
+
+Below that you can see two buttons. Those are for training the machine learning model.
+
+Sit in a correct posture for example upright straight, press the correct posture button 15-20 times, move your face while pressing the button.
+
+After pressing for 5-6 times the background will becomde green, but continue pressing button 15-20 times for better result.
+
+Now sit in wrong posture for example forward lean, press the wrong posture button 15-20 times like you pressed correct posture button.
+
+If background is green, that means you are in correct posture and if background is red, then you are in wrong posture.
+
+Below that on account info, enter your name and id of the person you want to call.
+
+This id is unique for everyone and it changes everytime. Copy your id from COPY YOUR ID button, and send it to other person whom you want to call.
+
+That person needs to paste id into ID to call blank and press the call button in order to call you.
+
+You can see the call coming with that person's name(name entered by that person) below the call button.
+
+Accept the call, you can talk with that person with much clear audio and video quality.
+
+During the call you can see call duration and correct posture duration at the top.
+
+To hang up the call, press the HANG UP button.
+
+After hangging up the call, you will be directed to other page showing your posture result.
+
+If your posture score is above 60 the card will be green otherwise red.
+
+Now return to the website, it will show that call's information beside your real time video.
+
+You can share this link to anyone you want to communicate.
